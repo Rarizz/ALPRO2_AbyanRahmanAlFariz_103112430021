@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 2 <br> # Review Pengenalan Pemrograman</h1>
+ <h1 align="center">Laporan Praktikum Modul 2 <br>  Review Pengenalan Pemrograman</h1>
 <p align="center">ABYAN RAHMAN AL FARIZ - 103112430021</p>
 
 ## Dasar Teori
