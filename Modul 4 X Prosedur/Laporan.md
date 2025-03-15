@@ -65,7 +65,8 @@ func main() {
         fmt.Println("Input tidak valid")
     }
 
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](output/Soal1.png)
@@ -323,7 +324,7 @@ Di dalam prosedur ini, dilakukan perulangan untuk setiap suku dalam deret. Jika 
     
     - Jika n memenuhi syarat, prosedur cetakDeret(n) dipanggil.
     - Prosedur akan terus mencetak setiap suku deret hingga n menjadi **1**.
-- **Output**
+3. **Output**
     
     - Semua angka dalam deret dicetak dalam **satu baris**, dipisahkan dengan spasi.
 
