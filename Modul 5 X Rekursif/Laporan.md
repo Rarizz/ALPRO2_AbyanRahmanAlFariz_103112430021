@@ -121,7 +121,8 @@ func main() {
 
     polaBintang(n,1)
 
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](output/Soal2.png)
@@ -204,7 +205,8 @@ func main() {
 
     faktorBilangan(n, 1)
 
-}```
+}
+```
 
 > Output
 > ![Screenshot bagian x](output/Soal3.png)
@@ -230,7 +232,8 @@ if n%bilangan == 0 {
     }
     
     faktorBilangan(n, bilangan+1)
-   }```
+   }
+```
 
 Jika n **habis dibagi** oleh variabel bilangan (n % bilangan == 0), maka angka tersebut dicetak. Setelah itu, fungsi memanggil dirinya sendiri dengan **bilangan + 1** untuk mengecek angka berikutnya.
 
